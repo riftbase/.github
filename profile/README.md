@@ -1,5 +1,8 @@
 # Riftbase
 
+![License](https://img.shields.io/badge/license-MIT-blue)
+![Platform](https://img.shields.io/badge/platform-.NET-blue)
+
 Riftbase is an open developer platform for gaming data.
 
 We build open source tools that help developers access and work with gaming achievements, trophies, and player statistics across multiple platforms.
