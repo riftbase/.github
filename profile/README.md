@@ -1,24 +1,40 @@
 # Riftbase
 
-![License](https://img.shields.io/badge/license-MIT-blue)
-![Platform](https://img.shields.io/badge/platform-.NET-blue)
+![Status](https://img.shields.io/badge/status-building-111111?style=for-the-badge)
+![Platform](https://img.shields.io/badge/platform-.NET-111111?style=for-the-badge&logo=dotnet&logoColor=512BD4)
+![Web](https://img.shields.io/badge/web-TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![License](https://img.shields.io/badge/license-MIT-111111?style=for-the-badge)
 
-Riftbase is an open developer platform for gaming data.
+Riftbase is a modern gaming platform focused on game data, collections, tier lists, profiles, and more expressive reviews.
 
-We build open source tools that help developers access and work with gaming achievements, trophies, and player statistics across multiple platforms.
+This organization contains the code, apps, and documentation that power Riftbase.
 
-## Projects
+---
 
-- **Riftbase.PlayStation**  
-  .NET client library for accessing PlayStation trophy and profile data.
+## ⚡ Repositories
 
-## Goals
+- **riftbase-web**  
+  The main web experience for Riftbase.
 
-- Make gaming data easier to access
-- Provide high quality developer tooling
-- Power the Riftbase gaming data platform
+- **riftbase-platform**  
+  Core platform code, backend services, APIs, and supporting infrastructure.
 
-## Links
+- **riftbase-dev**  
+  Developer-facing website and documentation for Riftbase.
 
-Website: https://riftbase.com  
-GitHub: https://github.com/riftbase
+---
+
+## 🧱 Focus
+
+- Clean, scalable platform architecture
+- Polished product experiences
+- Structured gaming data
+- Collections, lists, and profiles
+- Long-term developer tooling
+
+---
+
+## 🔗 Links
+
+- **Website:** [riftbase.com](https://riftbase.com)
+- **GitHub:** [github.com/riftbase](https://github.com/riftbase)
