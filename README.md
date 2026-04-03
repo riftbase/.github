@@ -1,10 +1,11 @@
-# Riftbase GitHub Configuration
+<div align="center">
 
-This repository contains organization-wide configuration files for Riftbase projects.
+# Riftbase
 
-Included in this repository:
+A modern trophy and achievement platform for PlayStation and Steam.
 
-- Organization profile README
-- Issue templates
-- Pull request templates
-- Community health files
+Track your progress, follow interactive guides, and compare your ranking.
+
+[Website](https://riftbase.com) · [Docs](https://docs.riftbase.com) · [Contact](mailto:team@riftbase.com)
+
+</div>
